@@ -31,7 +31,12 @@ A partir de uma base completa de exportações, foi realizado um processo de fil
 ---
 
 ## 💡 Principais insights
-- (coloca 2 ou 3 descobertas suas aqui, isso é MUITO importante)
+- O volume total exportado para a França ultrapassa US$ 23 bilhões no período analisado
+- Forte concentração em commodities, como resíduos industriais e minérios
+- Crescimento das exportações até 2018/2019, seguido de queda em 2020
+- Exportações concentradas em polos industriais e regiões produtoras
+- Baixa diversificação em produtos de alto valor agregado
+
 
 ---
 
