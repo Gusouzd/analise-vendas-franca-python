@@ -43,7 +43,7 @@ A partir de uma base completa de exportações, foi realizado um processo de fil
 
 ## 🚀 Como executar
 1. Clone o repositório
-2. Instale as dependências
+2. Instale as dependências (drive com os datasets: https://drive.google.com/drive/folders/11OfYmI4YJg_eHBrX-qcOj8v4avdAeBgr?usp=drive_link)
 3. Execute os notebooks
 
 ---
