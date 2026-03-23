@@ -11,6 +11,7 @@ A partir de uma base completa de exportações, foi realizado um processo de fil
 - Python
 - Pandas
 - Numpy
+- Matplotlib
 - Jupyter Notebook
 
 ---
