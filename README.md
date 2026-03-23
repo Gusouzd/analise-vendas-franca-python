@@ -16,6 +16,7 @@ A partir de uma base completa de exportações, foi realizado um processo de fil
 ---
 
 ## 📂 Estrutura do projeto
+- `exportacao_full.csv`: Dataset inteiro
 - `Filtrar.ipynb`: Responsável por filtrar os dados originais e gerar o dataset da França
 - `exportacoes_franca.csv`: Dataset filtrado
 - `Analise-Inicial.ipynb`: Análise exploratória dos dados filtrados
